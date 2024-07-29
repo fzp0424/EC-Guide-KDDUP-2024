@@ -1,0 +1,2876 @@
+[
+  {
+    "input_field": "Instructions: Explain the product type Tutu  \nOutput:",
+    "output_field": "A tutu is a skirt worn as part of a ballet costume, often made of layers of tulle, and designed to allow freedom of movement while highlighting the dancer's form.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Finch is about  \n",
+    "output_field": "A finch is a small to medium-sized bird, often colorful, belonging to the family Fringillidae, known for their conical beaks and melodious songs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Foxglove  \n",
+    "output_field": "Foxglove is a flowering plant known for its tall spikes of tubular flowers, often in shades of purple, pink, or white. It is also used in traditional medicine, but can be toxic if ingested.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Craft Scissors  \n",
+    "output_field": "Craft scissors are specialized cutting tools designed for crafting and detailed cutting projects. They often feature precision blades and ergonomic handles for easy and accurate cutting of paper, fabric, and other materials used in various crafts.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Vinyl  \n",
+    "output_field": "Vinyl is a synthetic plastic material used for a wide range of products, including records, flooring, and upholstery, known for its durability, flexibility, and waterproof properties.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Banner is about  \n",
+    "output_field": "A banner is a long strip of cloth or other material bearing a slogan or design, typically used for promotional or decorative purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Rake  \n",
+    "output_field": "A rake is a gardening tool with a long handle and a set of tines or teeth at one end, used for collecting leaves, grass clippings, and other debris, as well as for leveling soil.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Turner  \n",
+    "output_field": "A turner is a kitchen utensil with a flat, broad blade used for lifting, flipping, or spreading food items during cooking.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Pouch  \n",
+    "output_field": "A pouch is a small, flexible bag typically used to carry or store personal items, and it can come with or without closures like zippers or drawstrings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Votive is about  \n",
+    "output_field": "A votive is a small candle, typically used for religious or spiritual ceremonies, that often comes in a glass holder and is used to create a warm, ambient light.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Piggy Bank\n",
+    "output_field": "A piggy bank is a container, often in the shape of a pig, used primarily by children to save coins or small amounts of money, encouraging saving habits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Vehicle\n",
+    "output_field": "A vehicle is a means of transport designed to carry passengers or goods, typically on roads, rails, or water. Vehicles can include cars, trucks, motorcycles, buses, boats, and trains, and are powered by various means such as internal combustion engines, electric motors, or human effort.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Clamps are about\n",
+    "output_field": "Clamps are tools used to hold objects tightly together to prevent movement or separation, typically during construction, woodworking, or metalworking tasks.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Garland\n",
+    "output_field": "A garland is a decorative wreath or cord, often made of flowers, leaves, or other materials, that is typically used for adorning spaces or worn for ceremonial or celebratory purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Canopy is about\n",
+    "output_field": "A canopy is an overhead structure that provides shade or shelter, commonly used over outdoor areas such as patios, entrances, or walkways.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Crate\n",
+    "output_field": "A crate is a large, strong container typically made of wood, plastic, or metal, used for storing or transporting goods.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Leaves are about\n",
+    "output_field": "Leaves are the flat, typically green, structures attached to a plant stem that are primarily responsible for photosynthesis and transpiration, aiding in the plant's growth and energy production.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Pergola\n",
+    "output_field": "A pergola is an outdoor garden structure consisting of vertical posts or pillars that usually support cross-beams and an open lattice, often covered with climbing plants, providing a shaded walkway or sitting area.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Slides\n",
+    "output_field": "Slides are a type of footwear that are backless and open-toed, typically composed of a flat sole with a single or multiple straps across the toes. They are designed for easy wear and removal, providing comfort and convenience, often used in casual settings and as indoor or beach footwear.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Lounge\n",
+    "output_field": "A lounge typically refers to comfortable seating furniture or an area designed for relaxation, often found in homes, hotels, or airports.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Enclosure\n",
+    "output_field": "An enclosure is a protective casing or housing used to contain and shield various items, such as electronic components, machinery, or sensitive equipment, from environmental factors or unintentional contact.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Folds\n",
+    "output_field": "In the context of products and their categories, \"folds\" typically refer to any material or item designed to be folded for convenience, storage, or use. This can include folding furniture, foldable clothing accessories, or any other product that incorporates a folding mechanism to enhance its functionality or portability.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Taper\n",
+    "output_field": "A taper is a tool or device that has a gradually decreasing diameter along its length, commonly used to align or join parts precisely in mechanical and industrial applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Stand\n",
+    "output_field": "A stand is a device designed to support or hold an object in an upright or elevated position for easier access or display.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Skirts\n",
+    "output_field": "Skirts are garments that hang from the waist and cover all or part of the legs, designed for fashion and comfort, and are typically worn by women.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Shams\n",
+    "output_field": "Shams are decorative pillow covers, often designed with elaborate and stylish fabrics, used to enhance the aesthetic appeal of bedding. They usually have an opening in the back to insert a pillow and are not typically used for sleeping.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what the product category is about\nInput: Deck Protector\n",
+    "output_field": "A deck protector is a covering designed to shield the surface of a deck from damage caused by weather, furniture, and foot traffic, thereby prolonging the life and appearance of the deck.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Ghirardelli\n",
+    "output_field": "Ghirardelli is a brand known for producing high-quality chocolate products, including chocolate bars, baking chocolate, and other confections.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Freeze Dried Raw\n",
+    "output_field": "Freeze-dried raw refers to raw food that has been rapidly frozen and then dehydrated at low temperatures to preserve its freshness, nutrients, and flavor without the use of preservatives.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Alcove\n",
+    "output_field": "An alcove is a small recessed section of a room or wall, often used for decorative purposes or to house furniture or art pieces.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bib  \nOutput:",
+    "output_field": "A bib is a piece of cloth or plastic worn around the neck and chest to protect clothing from food spills during eating, typically used by infants and young children.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Wood is about  \n",
+    "output_field": "Wood is a hard, fibrous material that forms the trunk and branches of trees and shrubs, used for construction, furniture making, and various other applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Duct  \n",
+    "output_field": "A duct is a tube or passageway used in heating, ventilation, and air conditioning (HVAC) to deliver and remove air.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Pin  \n",
+    "output_field": "A pin is a small, slender object typically made of metal, used to fasten or secure material together, often in clothing, crafts, and various household applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Vinaigrette  \n",
+    "output_field": "A vinaigrette is a mixture of oil and vinegar, often flavored with herbs, spices, and other seasonings, used as a dressing for salads or marinades for meats and vegetables.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Keyboard Bench  \n",
+    "output_field": "A keyboard bench is a piece of furniture designed to provide comfortable seating for an individual playing a keyboard or piano, often featuring adjustable height and cushioned seating to support proper posture and performance.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: NAS Server  \n",
+    "output_field": "A NAS (Network Attached Storage) server is a dedicated file storage device connected to a network that allows multiple users and devices to store and retrieve data from a centralized location.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bracket  \n",
+    "output_field": "A bracket is a support or stand that is typically used to hold or secure an item in place, often attached to a wall or other surface.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Clip is about  \n",
+    "output_field": "A clip is a small device typically used for holding objects together or attaching one object to another, often by means of spring tension or pressure.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Ballast  \n",
+    "output_field": "A ballast is a device used to regulate the current in electrical circuits, commonly found in lighting systems to control the flow of electricity to light bulbs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Chaise  \n",
+    "output_field": "A chaise is an elongated chair designed for reclining and relaxing, often featuring an armrest and a backrest at one end. It is commonly used in living rooms or outdoor patios for comfort and style.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Clothing  \n",
+    "output_field": "Clothing refers to garments worn on the body, which provide protection, modesty, adornment, and sometimes cultural expression. They are made from various materials like fabric, leather, or synthetic fibers and encompass a wide range of items including shirts, pants, dresses, and outerwear.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Hard Candy  \n",
+    "output_field": "Hard candy is a type of confectionery that has a hard texture and is made by boiling sugar syrup to a high temperature, then allowing it to cool and harden.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Egg Noodles  \n",
+    "output_field": "Egg noodles are a type of noodle made from a mixture of eggs and flour, which gives them a rich flavor and chewy texture. They are used in a variety of dishes, such as soups, stir-fries, and casseroles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what Bamboo is  \n",
+    "output_field": "Bamboo is a fast-growing woody grass known for its strong, flexible stalks, which are used in construction, furniture, paper, and many other products.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Vest  \n",
+    "output_field": "A vest is a sleeveless garment worn on the upper body, typically over a shirt. It can serve as a functional piece for warmth or as a stylish layer in both casual and formal attire.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Pad is about  \n",
+    "output_field": "A pad typically refers to a flat, cushiony item that provides comfort, protection, or support in various settings. Pads can be used for a variety of purposes, such as cushioning furniture, serving as writing surfaces, or absorbing liquids for hygiene purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Crowns  \n",
+    "output_field": "Crowns are ornamental or ceremonial headdresses, typically made of precious metals and adorned with jewels, worn to signify rank or authority, particularly by royalty or nobility.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Gel  \n",
+    "output_field": "Gel is a semi-solid, jelly-like substance used in various applications, including personal care products, food items, and industrial purposes, often valued for its thickening, cooling, and moisturizing properties.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what Coconut is  \n",
+    "output_field": "Coconuts are large, seed-bearing fruits of the coconut palm tree, typically covered in a hard shell and fibrous husk, containing edible white flesh and refreshing liquid. They are valued for their versatile use in food, beverages, and various products.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Tire  \n",
+    "output_field": "A tire is a ring-shaped component that surrounds a wheel's rim to transfer a vehicle's load from the axle through the wheel to the ground, providing traction, cushioning, and a smooth ride.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Note Pad  \n",
+    "output_field": "A note pad is a stack of paper sheets bound together, used for writing notes, memos, or reminders.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Inflatable  \n",
+    "output_field": "An inflatable is a product that can be filled with air or gas to expand and take shape, used for various purposes such as recreational activities, furniture, and safety devices. When deflated, it can be stored compactly.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Spaghetti is about  \n",
+    "output_field": "Spaghetti is a type of long, thin, cylindrical pasta traditionally made from wheat and water, often served with various sauces or toppings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Mitts  \n",
+    "output_field": "Mitts are a type of glove that cover the hand but do not have separate finger openings or sheaths, allowing for better insulation and warmth, often used in cold weather or for tasks such as cooking or cleaning.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Ball Point  \n",
+    "output_field": "A ball point is a writing instrument featuring a small rotating ball at its tip to dispense ink smoothly onto the paper.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Mallet  \n",
+    "output_field": "A mallet is a type of hammer with a typically large, broad, and often wooden head, used for delivering softer blows without damaging the surface, often used in woodworking, leatherwork, and stone carving.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Conga is about  \n",
+    "output_field": "A conga is a tall, narrow, single-headed drum from Cuba, typically played in sets of two to four, and often used in Afro-Cuban music genres for creating rhythmic patterns.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Cedar  \n",
+    "output_field": "Cedar refers to a type of wood derived from cedar trees, known for its aromatic scent, natural resistance to decay and insects, and smooth, fine-grain texture. It is commonly used in furniture, closets, and outdoor construction.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Sesame is about  \n",
+    "output_field": "Sesame is a plant species in the genus Sesamum, and its seeds are used for their edible oil and as a seasoning in various cuisines.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Sneaker  \nOutput:",
+    "output_field": "A sneaker is a type of footwear designed for sports or other forms of physical exercise, but which is now also widely used for everyday casual wear. Sneakers typically feature a flexible sole made of rubber and an upper part made of leather or synthetic materials.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Hats  \n",
+    "output_field": "Hats are head coverings worn for various purposes including protection from the elements, ceremonial reasons, safety, or as a fashion accessory.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Lapel Pin  \n",
+    "output_field": "A lapel pin is a small pin worn on clothing, typically on the lapel of a jacket, used as a decorative accessory or to indicate affiliation with an organization, event, or cause.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Fountain  \n",
+    "output_field": "A fountain is a structure that emits water into the air, typically for decorative purposes, often found in gardens, parks, or public squares.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Trophy  \n",
+    "output_field": "A trophy is a decorative object awarded as a prize for success in a competition or contest, often given to commemorate achievement in sports, academics, or other competitions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Cello  \n",
+    "output_field": "A cello is a stringed musical instrument that is played with a bow. It has a deep, rich sound and is used in various musical genres, most commonly in classical music. It is larger than a violin and viola but smaller than a double bass.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Pegs is about  \n",
+    "output_field": "A peg is a small cylindrical or tapered pin typically used to fasten or secure objects, often by being inserted into a hole.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Safe  \n",
+    "output_field": "A safe is a secure lockable box used for securing valuable objects against theft and/or damage from fire.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Birthday Crown  \n",
+    "output_field": "A birthday crown is a decorative headpiece typically worn to celebrate a person's birthday, often made of materials like paper, plastic, or fabric, and embellished with glitter, jewels, or other festive decorations.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Wrist Band is about  \n",
+    "output_field": "A wrist band is a looped strap worn around the wrist, often used for support, fashion, or promotional purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Iron\n",
+    "output_field": "An iron is an electrical appliance used to remove wrinkles and creases from clothes by applying heat and pressure.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Rose\n",
+    "output_field": "A rose is a type of flowering plant characterized by its fragrant blooms and thorny stems. It is widely cultivated for its beauty and is often used in gardens, bouquets, and as a symbol of love and admiration.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bar Stool\n",
+    "output_field": "A bar stool is a type of tall chair, often with a footrest, designed for seating at a bar, high table, or counter. Bar stools can come in various styles and materials, and they provide elevated seating for socializing and dining.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Reflector\n",
+    "output_field": "A reflector is a device that reflects light, typically used to redirect light beams in various applications such as safety gear, photography, and vehicle headlights, enhancing visibility and illumination.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: DVD\n",
+    "output_field": "A DVD is a digital optical disc storage format used for storing high-capacity data, including video, audio, software, and other forms of digital content.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Hoses\n",
+    "output_field": "A hose is a flexible tube designed to transport fluids from one location to another, commonly used for watering gardens, transferring water, or connecting appliances.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Tube\n",
+    "output_field": "A tube is a cylindrical vessel or container, typically hollow, used to convey or transport fluids, gases, or to encase materials. Tubes can be made from various materials including metal, plastic, or rubber.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the Zoom Lens is about\n",
+    "output_field": "A zoom lens is a camera lens that allows for variable focal lengths, enabling the photographer to zoom in or out and capture images at different levels of magnification without changing lenses.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product category name\nInput: Bookbag\n",
+    "output_field": "A bookbag is a type of bag designed to carry books and other school supplies, typically featuring shoulder straps for easy carrying on the back.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Prints\n",
+    "output_field": "Prints are artistic images or designs that have been transferred onto paper or other materials, often for decorative or collectible purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Dressmaker is about\n",
+    "output_field": "A dressmaker is a person who makes custom clothing, typically dresses and gowns, often tailored to the specific measurements and preferences of a client.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: VSR Pistol\n",
+    "output_field": "A VSR Pistol is a type of airsoft gun designed for precision shooting, typically resembling a real firearm, and is commonly used in airsoft sports and recreational activities.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Cereal\n",
+    "output_field": "Cereal is a food product made from processed grains, often eaten as a breakfast option, and is usually served with milk or yogurt.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Poncho\n",
+    "output_field": "A poncho is a garment made of a single piece of cloth, typically with a hole in the center for the head, designed to keep the body warm or dry in inclement weather.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Beads are about\n",
+    "output_field": "Beads are small decorative objects that are typically round, and can be made from a variety of materials including glass, wood, plastic, or stone, often used in jewelry making, crafting, and embellishments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Cadbury\n",
+    "output_field": "Cadbury is a popular brand known for its confectionery products, including a wide range of chocolates, candies, and biscuits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about\nInput: Blu-ray\n",
+    "output_field": "A Blu-ray is a digital optical disc storage format used for high-definition video and data storage, offering greater storage capacity and superior video and audio quality compared to DVDs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name\nInput: Money Clip\n",
+    "output_field": "A money clip is a device typically made of metal or leather that is used to hold cash and credit cards in a very compact fashion for those who do not wish to carry a wallet.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Giclee is about\n",
+    "output_field": "A giclee is a high-quality print created using an inkjet printer, commonly used for reproducing artwork and photographs with exceptional detail and color accuracy.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Trim\n",
+    "output_field": "Trim refers to decorative materials used in various applications to enhance the aesthetics and functionality of items, such as clothing, furniture, or interiors. It includes items like lace, ribbons, fringes, piping, or borders that are added to these products for a finished look.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Altoids is about\nOutput:",
+    "output_field": "Altoids are a brand of mints, originally used as an antacid, that are known for their strong flavor and come in a distinctive metal tin.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Knobs\n",
+    "output_field": "Knobs are small, rounded handles or controls used on doors, cabinets, and various equipment for easy gripping, turning, or adjusting.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Sword\n",
+    "output_field": "A sword is a bladed weapon with a long metal blade and a hilt, used primarily for cutting or thrusting in combat.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Band is about\n",
+    "output_field": "A band is a strip of material around an object, typically used for decoration, support, or to hold something in place.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Laserjet\n",
+    "output_field": "A Laserjet is a type of printer that uses laser technology to produce high-quality text and graphics on paper by passing a laser beam over a drum to define an image.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Paint by Number\n",
+    "output_field": "A paint by number kit is a set of pre-numbered sections on a canvas that correspond to specific paints, allowing individuals to create detailed artworks by following a color-coded system.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Leather Biker is about\n",
+    "output_field": "A leather biker is a type of jacket made from leather, often designed with a sturdy and rugged style, and typically featuring a close-fitting cut and various protective elements. It is commonly worn by motorcycle riders for its durability and stylish appearance.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bath Rug\n",
+    "output_field": "A bath rug is a floor covering placed in a bathroom to provide comfort, absorb water, and prevent slips after a bath or shower.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bansuri\n",
+    "output_field": "A bansuri is a traditional Indian bamboo flute with six or seven finger holes, used in classical music as well as folk traditions to create melodious tunes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Herb  \n",
+    "output_field": "Herbs are plants with savory or aromatic properties that are used for flavoring food, medicinal purposes, or fragrances. They can be used fresh or dried.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Transmitter  \n",
+    "output_field": "A transmitter is an electronic device that sends signals or data, usually over a distance, using electromagnetic waves or other forms of communication.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Jerry Can  \n",
+    "output_field": "A jerry can is a robust container made of metal or plastic, designed to transport and store liquids, especially fuel or water.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Chip  \n",
+    "output_field": "A chip, in electronics, is a small piece of semiconducting material, typically silicon, on which an integrated circuit is embedded. It is the building block for electronic devices, handling a variety of tasks from processing data to storing information.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Cape is about  \n",
+    "output_field": "A cape is a sleeveless outer garment that drapes over the wearer's back, shoulders, and arms, commonly used for warmth or as a fashion statement.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Socks  \n",
+    "output_field": "Socks are garments worn on the feet to provide comfort, absorb sweat, and protect against abrasion and environmental conditions. They are typically made from materials such as cotton, wool, or synthetic fibers and come in a variety of lengths and styles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Marmalade  \n",
+    "output_field": "Marmalade is a type of fruit preserve made from the juice and peel of citrus fruits, boiled with sugar and water, resulting in a spreadable mixture that retains the rind.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Sheath is about  \n",
+    "output_field": "A sheath is a protective covering, typically made of leather, fabric, or plastic, designed to encase and shield sharp tools or weapons like knives and swords.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Serial ATA  \n",
+    "output_field": "A Serial ATA (SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard disk drives, solid-state drives, and optical drives, facilitating fast data transfer rates.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Coin Purse is about  \n",
+    "output_field": "A coin purse is a small pouch designed for carrying coins, usually made from leather or fabric, and often includes a fastening mechanism such as a clasp or zipper.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bass\n",
+    "output_field": "A bass is a string instrument that produces low-pitched sounds and is commonly used in various music genres such as rock, jazz, and classical. It is typically played by plucking, strumming, or bowing the strings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Twist Ties are about\n",
+    "output_field": "Twist ties are small, flexible fasteners made of wire encased in a thin strip of plastic or paper, used to secure and close bags, such as those for bread or produce, by twisting the ends together.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What is a Border?\n",
+    "output_field": "A border is a decorative element or boundary line that frames, outlines, or separates different sections of a design, object, or area.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Explain DVD Player\n",
+    "output_field": "A DVD player is an electronic device that plays discs produced under both the DVD-Video and DVD-Audio technical standards, capable of reading and decoding digital data to output video and audio content.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Describe what a Dish Rack is\n",
+    "output_field": "A dish rack is a kitchen accessory designed to hold and organize dishes, utensils, and cookware for drying after they have been washed.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Chips\n",
+    "output_field": "Chips are thin slices of potato or other vegetables that are fried or baked until crispy, commonly seasoned with salt or other flavorings, and are typically consumed as a snack.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Lithograph is about\n",
+    "output_field": "A lithograph is a printed image created from a design drawn on a flat stone or metal plate using a process that relies on the immiscibility of oil and water.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What is Latex?\n",
+    "output_field": "Latex is a natural or synthetic material that is often used to make products like gloves, balloons, and mattresses due to its flexibility, durability, and water-resistant properties.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Explain Memory Foam\n",
+    "output_field": "Memory foam is a type of polyurethane material that is sensitive to pressure and temperature, which allows it to conform to the shape of an individual, providing exceptional support and comfort.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Describe what Bits are\n",
+    "output_field": "Bits are the smallest unit of data in computing, representing a binary value of either 0 or 1. They are the fundamental building blocks for digital communications and data storage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Vessel\n",
+    "output_field": "A vessel is a container, such as a bowl, bottle, or tank, used to hold liquids or other substances.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Beam\nOutput:",
+    "output_field": "A beam is a structural element that primarily resists loads applied laterally to the beam's axis, typically used in construction to support weight and maintain structural integrity.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Checkbook is about\n",
+    "output_field": "A checkbook is a booklet containing checks that are used to make payments directly from a personal or business bank account.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Jersey\n",
+    "output_field": "A jersey is a type of garment typically made from knit fabric, commonly worn as athletic wear or casual wear. It often features the colors, logos, and numbers of sports teams or athletes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Dice\n",
+    "output_field": "Dice are small, typically cube-shaped objects with faces marked by dots or numbers, used in various games of chance and strategy to generate random numbers. They are usually rolled to produce a result that influences game play.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Chair\n",
+    "output_field": "A chair is a piece of furniture designed for a person to sit on, typically consisting of a seat, backrest, and four legs, and may include armrests.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Tires\n",
+    "output_field": "Tires are rubber coverings placed around wheels to provide traction and absorb shock, ensuring a smooth and safe drive for vehicles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Dough\n",
+    "output_field": "Dough is a mixture of flour and liquid, typically combined with other ingredients like yeast or baking powder, which is kneaded and then baked to produce bread, pastries, or other baked goods.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Martini is about\n",
+    "output_field": "A martini is a classic cocktail typically made with gin and vermouth, and garnished with an olive or a lemon twist.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Riding Boot\n",
+    "output_field": "Riding boots are sturdy boots designed for equestrian activities, offering protection and support to the rider's feet and lower legs. They typically feature a high shaft, a stable heel, and are often made from durable leather.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: iPhone\n",
+    "output_field": "An iPhone is a smartphone designed and manufactured by Apple Inc. that combines mobile phone capabilities with features such as internet access, multimedia playback, and a touch screen interface.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Charm\n",
+    "output_field": "A charm is a small decorative object often attached to bracelets, necklaces, or other jewelry to add a personal or aesthetic touch.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Tea Pot\n",
+    "output_field": "A teapot is a vessel with a spout, lid, and handle, used for brewing and pouring tea.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Flip-Flops\n",
+    "output_field": "Flip-flops are a type of light sandal with a flat sole and a Y-shaped strap that fits between the toes, commonly worn for casual wear and often associated with warm weather and beach activities.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product type is about\nInput: Fly Fishing\n",
+    "output_field": "Fly fishing is a method of fishing that uses a light-weight lure called an artificial fly to catch fish. This technique involves using specialized gear, including a fly rod, reel, and weighted line, and is often used in freshwater environments like rivers and streams.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bows\n",
+    "output_field": "Bows are flexible, curved devices designed to launch arrows. They are used in activities like archery and hunting, and are made from materials such as wood, fiberglass, or carbon fiber.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Chili\n",
+    "output_field": "Chilies are spicy fruits of plants from the genus Capsicum, used as a food ingredient to add heat and flavor to dishes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Cotton\n",
+    "output_field": "Cotton is a natural fiber that is soft, fluffy, and is spun into yarn or thread for textile production, widely used in clothing, bedding, and other fabric-based products.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Olive\n",
+    "output_field": "Olives are small, oval-shaped fruits of the olive tree, often harvested for use as food or for extracting olive oil, commonly utilized in cooking, garnishing dishes, or producing various oils.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product type is about\nInput: Passport\n",
+    "output_field": "A passport is an official government document that certifies the identity and nationality of its holder, primarily used for international travel.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Parasol\n",
+    "output_field": "A parasol is a lightweight, portable umbrella designed primarily to provide shade from the sun.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Pedal\n",
+    "output_field": "A pedal is a foot-operated lever used to control a mechanism or device, commonly found in vehicles, bicycles, musical instruments, and machinery.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Key Fob\n",
+    "output_field": "A key fob is a small, handheld device used for remotely controlling a variety of secure systems, such as cars, doors, or gates, often through the use of radio frequency identification (RFID) or other wireless communication methods.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Lens\n",
+    "output_field": "A lens is a transparent optical device that bends and focuses light rays to form an image, commonly used in glasses, cameras, microscopes, and various other optical instruments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Mask is about\n",
+    "output_field": "A mask is a protective covering worn over the face or part of the face to prevent the inhalation of harmful substances or to prevent the spread of infections.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Painting\n",
+    "output_field": "A painting is a visual artwork created using pigments on a surface such as canvas, wood, or paper, typically representing a scene, object, or abstract composition.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Gel Ink\n",
+    "output_field": "Gel ink is a type of ink used in pens that contains pigment suspended in a water-based gel. Gel ink is known for providing smooth, consistent writing and vibrant colors.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Dizi\n",
+    "output_field": "A dizi is a traditional Chinese musical instrument, typically made of bamboo, and is a type of transverse flute often used in Chinese folk music, opera, and orchestra.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Biscuit\n",
+    "output_field": "A biscuit is a small, typically sweet baked good made from flour, sugar, and a fat such as butter or oil. Biscuits can be soft or crunchy and often come in various flavors and shapes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Angle Grinder is about\n",
+    "output_field": "An angle grinder is a handheld power tool used for grinding, cutting, and polishing materials such as metal, stone, and ceramics.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Jerky\n",
+    "output_field": "Jerky is a type of snack made from lean meat that has been marinated, seasoned, and dried to prevent spoilage, resulting in a chewy, protein-rich food item.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Pendent\nOutput:",
+    "output_field": "A pendant is a piece of jewelry that hangs from a chain worn around the neck, often featuring decorative elements such as gemstones, symbols, or inscriptions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Outfit\n",
+    "output_field": "An outfit is a set of clothing, often coordinated, worn together as a single ensemble for specific occasions, activities, or daily wear.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Headband\n",
+    "output_field": "A headband is a flexible band or strip worn around the head, typically to keep hair off the face or for decorative purposes in fashion.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Kick\n",
+    "output_field": "A kick is a technique in martial arts or sports where a person strikes with their foot or leg, often used for self-defense, competition, or fitness.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Cans\n",
+    "output_field": "Cans are durable, sealed containers typically made of metal, used to store and preserve a variety of goods such as food, beverages, and chemicals.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the product type Sling is about\n",
+    "output_field": "A sling is a type of strap or harness designed to carry an infant or young child close to the caregiver's body, providing comfort and convenience while allowing for hands-free movement.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Nightlight\n",
+    "output_field": "A nightlight is a small, low-power light fixture designed to provide a soft, gentle illumination during the night for safety or comfort.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Surf Bag\n",
+    "output_field": "A surf bag is a specialized bag designed to transport and protect surfboards and surfing gear, often featuring padding and durable materials to prevent damage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Hoe\n",
+    "output_field": "A hoe is a gardening tool with a thin, flat blade set at a right angle to a long handle, used for weeding, cultivating, and breaking up soil.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Porch Swing\n",
+    "output_field": "A porch swing is a suspended seat typically found on porches, allowing for a gentle swinging motion, and is often used for relaxation or leisure.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Batting Tee\n",
+    "output_field": "A batting tee is a sports training tool used in baseball and softball to hold the ball at a stationary position, allowing batters to practice their hitting technique.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Thigh High\n",
+    "output_field": "Thigh highs are stockings that extend to the thigh area, providing coverage and support. They are often used for fashion, comfort, or medical purposes and may feature elastic bands or silicone grips to stay in place.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category Mittens is about\n",
+    "output_field": "Mittens are a type of glove with a single section for the fingers and a separate section for the thumb, designed to keep hands warm in cold weather.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Boots\n",
+    "output_field": "Boots are a type of footwear that cover the foot, ankle, and sometimes extend up to the knee or thigh, providing protection, support, and insulation. They are often used for work, outdoor activities, or fashion purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name\n",
+    "output_field": "Input: Explain the product category name\nOutput: \"Explain the product category name\" typically involves defining and detailing the purpose or use of a particular group of products with similar characteristics or functions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category Cards is about\n",
+    "output_field": "Cards are small, flat, rectangular pieces of paper or other materials used for various purposes, such as playing games, sending messages, or for identification and access purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Daypack\n",
+    "output_field": "A daypack is a small backpack designed to hold essentials for short trips or daily activities, offering convenience and comfort for carrying items like books, electronics, or snacks.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Idle Air Control Valve\n",
+    "output_field": "An idle air control valve regulates the engine's idle speed by controlling the amount of air that bypasses the throttle plate, ensuring stable and efficient engine operation.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category Planes is about\n",
+    "output_field": "Planes are tools designed to smooth or flatten wood surfaces by shaving thin layers off the material, commonly used in woodworking and carpentry.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Candies  \n",
+    "output_field": "Candies are sweet confections made from sugar or other sweeteners, often combined with fruits, nuts, chocolate, or other ingredients, and are typically enjoyed as a treat or snack.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the playhouse is about  \n",
+    "output_field": "A playhouse is a small, typically outdoor structure designed for children to play in, often resembling a miniature house and made for imaginative play.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Video Card  \n",
+    "output_field": "A video card, also known as a graphics card, is a hardware component in computers that processes and renders images, video, and animations for display on the monitor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Bass Guitar  \n",
+    "output_field": "A bass guitar is a stringed instrument similar to an electric guitar, but with a longer neck and scale length, that typically provides the lower frequency tones in music.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Pads  \n",
+    "output_field": "Pads are absorbent items typically used for hygiene purposes, offering protection and comfort by absorbing liquids.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Pie  \n",
+    "output_field": "A pie is a baked dish that typically consists of a pastry dough casing filled with sweet or savory ingredients, often including fruits, meats, vegetables, or custards.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me the product category name Oysters  \n",
+    "output_field": "Oysters are bivalve mollusks commonly found in marine or brackish waters, known for their edible meat that is often considered a delicacy and can be eaten raw or cooked.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Spray  \n",
+    "output_field": "A spray is a container with a nozzle that emits a fine mist or liquid in the form of droplets, often used for applying substances like cleaning solutions, perfumes, pesticides, or medicinal treatments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What is a lock?  \n",
+    "output_field": "A lock is a mechanical or electronic device used to secure doors, gates, or containers to prevent unauthorized access, typically requiring a key, combination, or digital access code to open.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Chiminea is about  \n",
+    "output_field": "A chiminea is a freestanding, front-loading fireplace or oven with a bulbous body and usually a vertical smoke vent or chimney, traditionally made from clay or metal.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Halogen Lamp\n",
+    "output_field": "A halogen lamp is a type of incandescent lamp that uses a halogen gas to increase light output and improve energy efficiency.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Chest Freezer\nOutput:",
+    "output_field": "A chest freezer is a type of freezer that opens from the top and is used for storing large quantities of frozen food.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Penne Pasta\n",
+    "output_field": "Penne pasta is a type of pasta characterized by its cylindrical shape, with ends cut at an angle, resembling a quill or a pen. It is commonly used in various pasta dishes, often paired with sauces due to its tube-like shape that holds the sauce well.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Bully Sticks\n",
+    "output_field": "Bully sticks are dog treats made from the dried, cooked, or roasted penis of a bull or steer. They are long-lasting chews that help promote dental health by reducing plaque and tartar while providing a high-protein, digestible snack for dogs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Quilt\n",
+    "output_field": "A quilt is a type of blanket composed of three layers: a top fabric, a middle layer of batting, and a bottom fabric. These layers are stitched together in patterns and are often used for warmth and decorative purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Shopper Bag is about\n",
+    "output_field": "A shopper bag is a large, usually tote-style bag designed for carrying a variety of items, making it ideal for shopping or general use. It often features sturdy handles and spacious compartments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Dress\n",
+    "output_field": "A dress is a one-piece garment for women or girls that covers the body and extends down over the legs. Dresses come in various styles, lengths, and designs, suitable for different occasions and preferences.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Cellophane Wrap\n",
+    "output_field": "Cellophane wrap is a thin, transparent film made from cellulose that is used for wrapping and packaging to protect food and other items from moisture and contaminants.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Coins\n",
+    "output_field": "Coins are small, flat, round pieces of metal issued by a government as money and used as a medium of exchange or legal tender.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Lobster Bisque\n",
+    "output_field": "Lobster bisque is a rich and creamy soup made from lobster stock, cream, and various seasonings, often featuring chunks of lobster meat.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category handle\n",
+    "output_field": "A handle is a part of an object designed to be held by the hand, making it easier to manipulate or use the object effectively.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the grocery bags category is about\n",
+    "output_field": "Grocery bags are bags used for carrying purchased groceries from the store to home, typically made from plastic, paper, or reusable materials.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type recumbent\n",
+    "output_field": "A recumbent is a type of bicycle that places the rider in a reclining position, offering ergonomic benefits and increased comfort by evenly distributing the rider's weight over a larger area.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Gauze\n",
+    "output_field": "Gauze is a thin, transparent fabric with a loose open weave, commonly used in medical settings for wound care, dressings, and bandages.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category driver\n",
+    "output_field": "A driver is a tool, usually powered manually or electrically, that is used to insert and tighten screws or bolts into various materials.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type cruiser\n",
+    "output_field": "A cruiser is a type of motorcycle designed for long-distance travel, featuring a relaxed, upright seating position, powerful engine, and often additional amenities like saddlebags and windshields for comfort during extended rides.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category shirts\n",
+    "output_field": "Shirts are garments for the upper body, typically featuring a collar, sleeves, and a front opening. They come in various styles and fabrics, suitable for different occasions and weather conditions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the shirt is about\n",
+    "output_field": "A shirt is a garment for the upper body, typically having a collar, sleeves, and a front opening. It is available in various styles for both casual and formal wear and can be made from a wide range of fabrics.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category mint\n",
+    "output_field": "Mint refers to the category of products that derive from the mint plant or flavor, including fresh and dried herbs, essential oils, teas, candies, gums, and other consumables that contain the characteristic cool and refreshing mint flavor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what sugar category encompasses\n",
+    "output_field": "The sugar category encompasses various forms of sugar, a sweet-tasting, soluble carbohydrate used primarily as a food additive. These can include granulated sugar, powdered sugar, brown sugar, and specialized forms like cane sugar and beet sugar, each used for different culinary purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type carafe  \n",
+    "output_field": "A carafe is a container used for serving liquids, typically designed without handles and often made of glass. It is commonly used to serve water, wine, or juice and adds a touch of elegance to the presentation.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the gourd is about  \n",
+    "output_field": "A gourd is a fruit that belongs to the Cucurbitaceae family, often used as a vessel or utensil when dried and hollowed out.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type cookie sheet  \n",
+    "output_field": "A cookie sheet is a flat, rectangular metal tray used in an oven for baking cookies, as well as other baked goods, ensuring they heat evenly for consistent results.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type voltmeter  \n",
+    "output_field": "A voltmeter is an instrument used to measure the electrical potential difference, or voltage, between two points in an electric circuit.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Tell me what this product category is about  \nInput: Clothes  \n",
+    "output_field": "Clothes are garments worn on the body, which are made from various fabrics and materials to provide protection, comfort, and style.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Stakes  \n",
+    "output_field": "Stakes are pointed posts that are driven into the ground to support plants, structures, or tenting materials, and can also be used to mark boundaries or provide anchorage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the tea is about  \n",
+    "output_field": "Tea is a beverage made by soaking processed leaves, buds, or twigs of the tea plant in hot water, offering a variety of flavors and potential health benefits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type plastic bags  \n",
+    "output_field": "Plastic bags are flexible, lightweight containers made from synthetic materials, most commonly used for carrying goods and general storage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Snickers is about  \n",
+    "output_field": "Snickers is a brand of chocolate bar made by Mars, Incorporated, consisting of nougat topped with caramel and peanuts, all enrobed in milk chocolate.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about  \nInput: Moto  \n",
+    "output_field": "A Moto typically refers to a motorbike or motorcycle, which is a two-wheeled motor vehicle used for transportation, recreation, or racing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Headlight\n",
+    "output_field": "A headlight is a powerful light at the front of a vehicle, designed to illuminate the road ahead during the dark or in poor visibility conditions, ensuring safe driving.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Lid\nOutput:",
+    "output_field": "A lid is a removable or hinged cover for the top of a container, designed to seal its contents and prevent spills, contamination, or evaporation.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Swimsuit is about\n",
+    "output_field": "A swimsuit is a garment designed specifically for swimming and water-based activities, typically made from materials that are water-resistant and quick-drying.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Gi\n",
+    "output_field": "A gi is a uniform worn in martial arts, consisting of a jacket and pants, typically made of cotton or polyester, designed to withstand the rigors of training and competition.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Shells\n",
+    "output_field": "Shells refer to the hard, protective outer coverings of various marine animals, such as mollusks and crustaceans. They are often collected, studied, and used decoratively for their aesthetic appeal and natural beauty.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Kibble is about\n",
+    "output_field": "Kibble is a type of dry pet food, typically in small, hard pieces, designed to be easily chewable for pets like dogs and cats, and often nutritionally balanced to support their dietary needs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Raincoat\n",
+    "output_field": "A raincoat is a waterproof or water-resistant coat worn to protect the body from rain. It is typically made from materials like plastic, rubber, or coated fabrics to keep the wearer dry during wet weather.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Cleaver\n",
+    "output_field": "A cleaver is a large, heavy knife with a rectangular blade, primarily used in butchery for cutting through meat and bone.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Tripod\n",
+    "output_field": "A tripod is a three-legged stand used to support and stabilize cameras, telescopes, and other equipment, ensuring steady and accurate positioning during use.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Car is about\n",
+    "output_field": "A car is a motor vehicle with four wheels, designed for transporting passengers on public roads.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Snow Tube\n",
+    "output_field": "A snow tube is an inflatable, round sled designed for sliding downhill on snow, providing a fun and smooth ride for winter recreational activities.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What are ballpoints?\n",
+    "output_field": "A ballpoint is a type of pen that dispenses ink over a metal ball at its point, allowing for smooth and consistent writing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Pillar\n",
+    "output_field": "A pillar is a vertical structural element that provides support for buildings or other structures. It can also serve a decorative purpose, enhancing the aesthetics of the architecture.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain what dolls are about\n",
+    "output_field": "Dolls are figurines that often resemble human beings, used primarily as children's toys or collectibles. They come in various sizes and styles, and are sometimes dressed in different outfits and accessories.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what this product category is about\nInput: Trimmings\n",
+    "output_field": "Trimmings are decorative pieces, such as ribbons, lace, or fringe, used to enhance the appearance of garments, upholstery, or other items.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Softball\n",
+    "output_field": "A softball is a larger ball used in a variant of baseball, played on a smaller field with a distinctive underhand pitching style.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "What is an MTB?\n",
+    "output_field": "An MTB, or mountain bike, is a bicycle designed for off-road cycling, featuring sturdy frames, wide tires, and suspension systems to handle rough terrain.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the product category Granola is about\n",
+    "output_field": "Granola is a breakfast food and snack consisting of rolled oats, nuts, honey or other sweeteners, and sometimes puffed rice, that is usually baked until crisp. It is often enjoyed with yogurt, milk, fruit, or eaten on its own.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Tent\n",
+    "output_field": "A tent is a temporary shelter made of fabric or other material, supported by poles and rope, and is used for outdoor camping or emergencies.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "What is Black Tea?\n",
+    "output_field": "Black tea is a type of tea that is more oxidized than other varieties like green or white tea, resulting in a darker color and stronger flavor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Screen  \n",
+    "output_field": "A screen is a flat or curved surface made of material that blocks, filters, or displays light. It can be used for various purposes, such as displaying images or text (as in electronic devices like computers and TVs) or for providing separation or privacy (as in physical barriers or partitions).",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Tomato  \n",
+    "output_field": "A tomato is a nutrient-rich, typically red fruit enjoyed in a variety of culinary dishes, known for its juicy flesh and mild, sweet flavor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Robot  \n",
+    "output_field": "A robot is a programmable machine designed to automatically carry out a range of complex tasks, often mimicking human actions, and it may operate autonomously or be controlled by a user.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Arm Band  \n",
+    "output_field": "An arm band is a band worn around the upper arm, often used to hold devices like smartphones or MP3 players while exercising.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Biker  \n",
+    "output_field": "A biker refers to a person who rides a motorcycle or bicycle, often associated with a distinct lifestyle or subculture that includes specific types of clothing, gear, and accessories designed for safety and comfort while riding.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about  \nInput: Powerbank  \n",
+    "output_field": "A powerbank is a portable device that stores electrical energy for charging smartphones, tablets, and other electronic gadgets when an electrical outlet is unavailable.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Case  \n",
+    "output_field": "A case is a container designed to hold, protect, and transport various items, often providing organization and security for the contents inside. Cases can be made from various materials and come in different shapes and sizes to suit specific purposes, such as for electronics, eyewear, and accessories.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Skirt  \n",
+    "output_field": "A skirt is a garment worn from the waist down that covers all or part of the legs. Skirts are available in various lengths and styles, often designed to enhance fashion and comfort.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Cases  \n",
+    "output_field": "Cases are protective coverings or enclosures used to store, protect, and transport various items such as electronics, tools, or personal belongings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bibs  \n",
+    "output_field": "Bibs are protective garments worn by infants and toddlers around the neck to prevent food and liquid from spilling onto their clothes while eating.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Deadbolt\n",
+    "output_field": "A deadbolt is a type of locking mechanism that provides extra security by extending a solid metal bolt into the door frame, which is operated by turning a key or a thumb turn.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category Solar\nOutput:",
+    "output_field": "Solar products utilize energy from the sun to generate electricity or heat. They include items like solar panels, solar lights, and solar chargers, which convert sunlight into renewable and sustainable energy.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Sheet Metal is about\n",
+    "output_field": "Sheet metal is a material made from thin, flat pieces of metal that are typically used in manufacturing and construction due to their versatility and durability.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What is Peas\n",
+    "output_field": "Peas are small, green, round seeds that are typically used as a vegetable in cooking. They are an excellent source of vitamins, minerals, and fiber.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Felt Tip\n",
+    "output_field": "A felt tip is a type of pen that uses a porous, fibrous material for its writing tip, which allows for smooth and controlled ink application, often used for drawing, coloring, and writing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bathtub\n",
+    "output_field": "A bathtub is a large container for holding water in which a person may bathe. It is typically installed in a bathroom and can be made from various materials such as acrylic, fiberglass, or porcelain.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what SATA is about\n",
+    "output_field": "SATA (Serial ATA) is an interface used to connect storage devices like hard drives and solid-state drives to a computer, known for its faster data transfer speeds compared to older parallel ATA (PATA) standards.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category Clipless\n",
+    "output_field": "A clipless system refers to a type of bicycle pedal and shoe combination that allows the rider to securely attach their shoes to the pedals using a cleat mechanism, enhancing pedaling efficiency and control.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: What is Almond\n",
+    "output_field": "An almond is an edible seed of the almond tree, often consumed as a snack, used in cooking, or processed into products like almond milk and almond butter.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Fly Reel is about\n",
+    "output_field": "A fly reel is a cylindrical device attached to a fishing rod used to wind and store the fishing line, typically for the sport of fly fishing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Ice Maker  \n",
+    "output_field": "An ice maker is a device that produces ice, either in the form of cubes, flakes, or nuggets, by freezing water. It can be a standalone appliance or built into a refrigerator.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Mattress Cover is about  \n",
+    "output_field": "A mattress cover is a protective layer that fits over a mattress to safeguard it from spills, stains, dust mites, and other allergens.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Travel Bags  \n",
+    "output_field": "Travel bags are bags specifically designed to carry personal belongings and essentials during travel. They come in various forms, such as suitcases, backpacks, duffel bags, and carry-on luggage, and are often equipped with features like wheels, handles, and compartments to enhance convenience and organization for travelers.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Micro-Cut Shredder  \n",
+    "output_field": "A micro-cut shredder is a type of paper shredder that cuts documents into extremely small particles, providing a higher level of security by making the shredded information nearly impossible to reconstruct.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Brad Nailer  \n",
+    "output_field": "A brad nailer is a specialized tool used to drive small, thin nails (brads) into wood or other materials, commonly used in finishing carpentry, cabinetry, and craft projects for detailed and delicate work.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the TV Console is about  \n",
+    "output_field": "A TV console is a piece of furniture designed to house and organize a television and its associated electronic components, such as gaming consoles, DVD players, and cable boxes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Cast Iron Skillet is about  \n",
+    "output_field": "A cast iron skillet is a heavy-duty frying pan made from cast iron, known for its excellent heat retention and even cooking, often used for sautéing, searing, baking, and frying a variety of foods.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Digital Notepad  \n",
+    "output_field": "A digital notepad is an electronic device used for writing and drawing digitally, typically incorporating a touchscreen or stylus, allowing users to create, edit, and save notes and sketches.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Mason Jar  \n",
+    "output_field": "A Mason jar is a glass jar used in home canning to preserve food, featuring a sealable lid to keep contents safe from outside air and contaminants.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Baitcast Reel  \n",
+    "output_field": "A baitcast reel is a type of fishing reel designed to be mounted on top of a fishing rod, allowing for precise casting and control by using a rotating spool to release and retrieve the fishing line.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Landline\n",
+    "output_field": "A landline is a traditional telephone connection that uses a physical wire or cable to transmit voice and data signals.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Torpedo\n",
+    "output_field": "A torpedo is a self-propelled underwater missile designed to be launched from a submarine, ship, airplane, or other platform to explode on contact with or in the vicinity of a target, such as another vessel.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what this product category is about\nInput: Rugs\n",
+    "output_field": "Rugs are floor coverings made from various materials, such as wool, cotton, or synthetic fibers, designed to add comfort, warmth, and style to living spaces.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Light\n",
+    "output_field": "A light is a device that produces illumination, making it possible to see in the dark or to enhance visibility in various environments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Laser\n",
+    "output_field": "A laser is a device that emits a concentrated beam of light through the process of optical amplification based on the stimulated emission of electromagnetic radiation, often used for cutting, engraving, and medical procedures.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the product type Mixer is about\n",
+    "output_field": "A mixer is a kitchen appliance used to combine, beat, or whip ingredients, often featuring multiple speed settings and interchangeable attachments for various culinary tasks.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Cable\n",
+    "output_field": "A cable is a thick, strong rope or wire that can transmit power, data, or signals, and is commonly used in electrical and electronic systems for connectivity and transmission purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Headlamp\n",
+    "output_field": "A headlamp is a light source affixed to the front of a headband, designed to provide hands-free illumination, commonly used in outdoor activities such as hiking, camping, and caving.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the product category is about\nInput: Fly Rod \n",
+    "output_field": "A fly rod is a type of fishing rod specifically designed for fly fishing, where an artificial fly is used as bait. It is typically more flexible and longer than regular fishing rods to allow for casting the light fly line accurately.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Carry-on\n",
+    "output_field": "A carry-on is a small suitcase or bag that is designed to be taken onto an airplane and stored in the overhead bin or under the seat. It usually meets specific size and weight requirements set by airlines.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Tungsten\n",
+    "output_field": "Tungsten is a chemical element known for its high density, hardness, and resistance to heat. It is often used in various industrial applications, including electrical and military equipment, as well as in jewelry like wedding bands due to its durability.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Flags\nOutput:",
+    "output_field": "Flags are pieces of fabric with distinctive designs and colors, often used as symbols for countries, organizations, or causes, and are typically displayed on poles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Describe what the product type leveling kit is\nInput: Leveling Kit\n",
+    "output_field": "A leveling kit is an automotive modification designed to raise the front of a vehicle to match the height of the rear, providing a level stance and allowing for the installation of larger tires.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Gaffer\n",
+    "output_field": "A gaffer is a high-strength, fabric-backed adhesive tape, typically used in the entertainment industry to secure cables, lighting, and props on stage or film sets.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Ashtray is about\n",
+    "output_field": "An ashtray is a receptacle used to collect ash and cigarette butts, typically made from fire-resistant materials like glass, ceramic, or metal.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Tubes\n",
+    "output_field": "Tubes are hollow cylindrical containers made from various materials, used to convey fluids, gases, or to facilitate certain processes in medical, industrial, or domestic applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Describe what the product type monopod is\nInput: Monopod\n",
+    "output_field": "A monopod is a single-legged camera support device used by photographers and videographers to help stabilize and balance cameras, allowing for clearer and more stable shots.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Pulls\n",
+    "output_field": "Pulls are hardware items used primarily on doors, drawers, and cabinets to allow users to easily open and close them. They are available in various designs and finishes to match different styles and preferences.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Doll\n",
+    "output_field": "A doll is a small figure representing a baby, child, or adult, used as a toy for children or as a collectible item for adults. Dolls are often made of materials such as plastic, cloth, or porcelain and can be dressed and accessorized in various outfits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Describe what the product category Chelsea is about\nInput: Chelsea\n",
+    "output_field": "A Chelsea boot is a close-fitting, ankle-high boot with elastic side panels and often a loop or tab of fabric on the back of the boot, making it easy to pull on and off.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: CFL  \n",
+    "output_field": "A CFL (Compact Fluorescent Lamp) is an energy-efficient light bulb that uses fluorescent technology to produce light, typically featuring a compact, spiral or folded tube design.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Spin Rod is about  \n",
+    "output_field": "A spin rod is a type of fishing rod designed specifically for use with a spinning reel, which is ideal for casting light lures and baits over long distances.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Boot  \n",
+    "output_field": "A boot is a type of footwear that covers the foot and ankle and often extends up to the knee or higher, providing protection and support, and is used for various purposes, including fashion, work, and outdoor activities.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Emblem  \n",
+    "output_field": "An emblem is a symbolic object or design that represents a particular quality, concept, or organization, often used for identification or branding purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Jar  \n",
+    "output_field": "A jar is a cylindrical container, typically made of glass or plastic, with a wide mouth and a removable or screw-on lid, used to store food, liquids, or other items for preservation and easy access.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the product category is about  \nInput: Drone  \n",
+    "output_field": "A drone is an unmanned aerial vehicle (UAV) that is controlled either remotely by a pilot or autonomously by onboard computers, often used for photography, videography, surveillance, and recreational purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name  \nInput: Sequencer  \n",
+    "output_field": "A sequencer is an electronic device or software that records, edits, and plays back sequences of music by arranging audio and MIDI data in a specific order.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Clips  \n",
+    "output_field": "Clips are small devices used to hold or fasten items together, often utilizing a spring or similar mechanism to secure the objects. They come in various designs and are used in a multitude of applications, from office supplies like paper clips to hair accessories.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about  \nInput: Parka  \n",
+    "output_field": "A parka is a type of heavy, waterproof jacket with a hood, typically lined with fur or faux fur, designed to provide warmth and protection in cold weather conditions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Shade Sails  \n",
+    "output_field": "Shade sails are outdoor canopies made from durable, UV-resistant fabric, designed to provide shade and protection from the sun by being tensioned between several anchor points.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Canvas Tote\n",
+    "output_field": "A canvas tote is a large, open-top bag made from sturdy canvas material, often with two handles, designed for carrying various items and commonly used for shopping or casual outings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Coveralls\n",
+    "output_field": "Coveralls are protective garments designed to cover the entire body, including arms and legs, to keep clothing and skin safe from dirt, chemicals, and other hazards. They are commonly used in industrial, construction, and medical settings.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bead\n",
+    "output_field": "Beads are small, decorative objects that are typically pierced for threading or stringing. They can be made from a variety of materials, such as glass, wood, plastic, or metal, and are commonly used in jewelry making or as embellishments in various crafts and textiles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Barrettes is about\n",
+    "output_field": "A barrette is a clasp or pin for holding hair in place, often decorative, and commonly used as a hair accessory.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Acoustic\n",
+    "output_field": "Acoustic products pertain to devices or instruments that produce sound through physical means, such as vibrations or air movement, without requiring electronic amplification.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Top is about\nInput: Top\n",
+    "output_field": "A top is a piece of clothing worn on the upper part of the body, such as a shirt or blouse. It can come in various styles, fits, and materials.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Edging\n",
+    "output_field": "Edging refers to materials used to create a distinct border or edge for lawns, garden beds, pathways, and other landscaping features, often providing both functional and aesthetic benefits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Wheel-kit\n",
+    "output_field": "A wheel-kit is a set of wheels and related components used to add or replace wheels on various equipment and machines, enabling easier movement and transportation.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Shoe\n",
+    "output_field": "Shoes are footwear designed to protect and comfort the human foot while enabling ease of movement. They come in various styles and materials to suit different functions and occasions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Gaming Card is about\n",
+    "output_field": "A gaming card is a card used in the context of games, often either a physical card used in card games or a digital card used in online games, which carries specific attributes, abilities, or roles that contribute to the game's mechanics and strategy.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Explain the product category name\nInput: USB 2.0\n",
+    "output_field": "A USB 2.0 refers to a version of the Universal Serial Bus (USB) standard for interfacing computers and electronic devices, providing data transfer rates of up to 480 Mbps and compatibility with various peripherals such as keyboards, mice, and storage devices.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product type Corn is about\nOutput:",
+    "output_field": "Corn, also known as maize, is a type of cereal grain that is grown widely around the world for food, livestock feed, and industrial products. It can be consumed as whole kernels, processed into food products like cornmeal and corn syrup, or used as a raw material in biofuel production.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the category: Blind\n",
+    "output_field": "A blind is a window covering designed to block out light or provide privacy, usually made of slats or fabric that can be adjusted to control the amount of light entering a room.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Steel\n",
+    "output_field": "Steel is a strong, durable alloy made primarily of iron and carbon, used extensively in construction, manufacturing, and various other industries due to its high tensile strength and versatility.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: What does the product category 'Gas' stand for?\n",
+    "output_field": "Gas refers to substances in a gaseous state that are used for various applications including heating, cooking, and fueling vehicles. Common types include natural gas, propane, and butane.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me about the product category Wall Mounted\n",
+    "output_field": "A wall mounted product is designed to be securely attached to a wall, often to save space or for aesthetic purposes. These products can include items like shelves, lights, or TVs, and they provide stability and optimal use of room space.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Tops\n",
+    "output_field": "Tops are garments worn on the upper part of the body, typically covering the chest and torso. They come in various styles, such as t-shirts, blouses, and sweaters.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Explain the term 'Canned'\n",
+    "output_field": "Canned refers to food or beverages that have been preserved by being sealed in an airtight container, typically a metal can, to extend shelf life and maintain freshness.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product type Dices is about\n",
+    "output_field": "Dice are small objects, typically cube-shaped, with each of their six faces showing a different number of dots from one to six. They are used in various games of chance and skill to generate random numbers.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain what 'fixed' refers to in product terms\n",
+    "output_field": "In product terms, 'fixed' refers to items that are permanently attached or held in a specific position and are not intended to be moved or adjusted frequently.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Field Hockey\n",
+    "output_field": "Field hockey is a team sport played on grass or artificial turf, where players use curved sticks to hit a small, hard ball into the opposing team's goal.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Brush Holder\n",
+    "output_field": "A brush holder is a container or organizer designed to hold and store brushes, keeping them orderly and easily accessible.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Golf\n",
+    "output_field": "Golf is a sport in which players use various clubs to hit a small ball into a series of holes on a course in as few strokes as possible.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the Switch is about\n",
+    "output_field": "A switch is a device used to open or close an electric circuit, thereby allowing or interrupting the flow of electrical current.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type BJJ\n",
+    "output_field": "BJJ, or Brazilian Jiu-Jitsu, is a martial art and combat sport that focuses on ground fighting and submission holds. It emphasizes techniques for controlling and submitting opponents, making it effective for self-defense and competitive fighting.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Toner\n",
+    "output_field": "A toner is a skincare product applied to the face to cleanse the skin, shrink pores, and provide hydration and essential nutrients.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Trolling Motor is about\n",
+    "output_field": "A trolling motor is a self-contained unit that includes an electric motor, propeller, and controls, and is used to propel a boat at low speeds for fishing or precise maneuvering.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: Knee-High\n",
+    "output_field": "A knee-high is a type of clothing that covers the leg up to the knee. It typically refers to socks, stockings, or boots that provide both style and protection, extending from the foot to just below the knee.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Tell me what the Curio is about\n",
+    "output_field": "A curio is a rare, unusual, or intriguing object often collected for its interest and value.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type\nInput: LED\n",
+    "output_field": "An LED, or Light Emitting Diode, is a semiconductor device that emits light when an electric current passes through it. LEDs are known for their energy efficiency, long lifespan, and bright illumination, and they are commonly used in various lighting and display applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Deck\n",
+    "output_field": "A deck is a flat, outdoor platform connected to a building, often made of wood or composite materials, used for leisure activities such as dining, entertaining, or relaxing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Watch Box\n",
+    "output_field": "A watch box is a storage case designed to hold and protect wristwatches, typically featuring compartments or padded slots to keep the watches safe and organized.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Jet\n",
+    "output_field": "A jet is an aircraft powered by jet engines, capable of traveling at high speeds and altitudes, commonly used for both civilian and military purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Apron\n",
+    "output_field": "An apron is a protective garment worn over clothing to shield the wearer from spills, stains, and other kitchen or work-related messes. Aprons are commonly used in cooking, baking, and various crafts or occupations.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Full-Tang is about\n",
+    "output_field": "A full-tang refers to the design of a knife in which the blade extends through the entire length of the handle, often providing better balance and durability.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Snap Ring\n",
+    "output_field": "A snap ring is a type of fastener used to hold components or assemblies onto a shaft or in a housing, bore, or other form of containment. It is a circular metal ring that snaps into a groove and provides a removable and reusable shoulder.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Lavatory\n",
+    "output_field": "A lavatory is a room or space equipped with fixtures such as a toilet and a sink, meant for the purpose of sanitation and personal hygiene.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Pinking\n",
+    "output_field": "Pinking refers to a cutting method that creates a zigzag pattern on fabric edges to prevent fraying.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Hose is about\n",
+    "output_field": "A hose is a flexible tube designed to transport water or other liquids from one place to another.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Mylar\n",
+    "output_field": "Mylar refers to a type of strong, transparent polyester film used in various applications such as packaging, insulation, and even emergency blankets.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Roll  \n",
+    "output_field": "A roll is a cylindrical or spherical mass of material, such as paper, fabric, or metal, that is wound around a central core for easy handling, storage, and use.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Cleats are about  \nOutput:",
+    "output_field": "Cleats are shoes fitted with projections on the soles to provide better traction on soft or slippery surfaces, commonly used in sports like soccer, football, and baseball.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Tree  \n",
+    "output_field": "A tree is a perennial plant with an elongated stem, or trunk, that supports branches and leaves. They are renowned for their benefits such as providing oxygen, improving air quality, and serving as a habitat for various wildlife.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Describe what Icing is used for  \n",
+    "output_field": "Icing is a sweet, often creamy mixture used primarily to coat or decorate cakes, cookies, and other baked goods. It can also be used to add flavor and preserve the moisture of the baked items.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Muay Thai  \n",
+    "output_field": "Muay Thai is a combat sport from Thailand that uses stand-up striking along with various clinching techniques.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Sofa  \n",
+    "output_field": "A sofa is a large, upholstered piece of furniture designed to seat multiple people comfortably. It typically has a backrest and armrests and is often used in living rooms or lounges for seating and relaxation.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: What is a Film?  \n",
+    "output_field": "A film, also known as a movie, is a form of visual art that uses moving images to convey stories, ideas, or emotions. Films typically include sound, dialogue, and music to create a complete narrative experience for the audience.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Fillet  \n",
+    "output_field": "A fillet is a boneless cut of meat or fish that is typically sliced to be flat and thin, allowing for ease of cooking and serving.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Hole Saw  \n",
+    "output_field": "A hole saw is a saw blade used with a power drill to cut perfectly round holes in various materials such as wood, metal, and plastic.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: What does the term \"Hamper\" denote?  \n",
+    "output_field": "A hamper is a basket used for containing and transporting laundry, often equipped with a lid and designed to be both functional and decorative.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Baseball\n",
+    "output_field": "A baseball is a small, spherical ball used in the sport of baseball, typically made of a rubber or cork center wrapped in yarn and covered with leather, stitched together in a distinctive pattern.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Box Fan is about\n",
+    "output_field": "A box fan is a portable, typically square-shaped electric fan designed to circulate air in indoor spaces, providing ventilation and cooling.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Soft-Sided\n",
+    "output_field": "Soft-sided products are items made from flexible materials that allow for easy handling and storage, often used for luggage, bags, and cases.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Acrylic\n",
+    "output_field": "Acrylic is a type of plastic material known for its clarity, durability, and versatility, often used in a variety of applications including paints, coatings, and as a glass substitute in products like display cases and windows.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Angle\n",
+    "output_field": "An angle is a geometric figure formed by two rays, called the sides of the angle, sharing a common endpoint known as the vertex. Angles are measured in degrees or radians and are fundamental in various fields such as mathematics, engineering, and construction.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Exercise Wheel\n",
+    "output_field": "An exercise wheel is a device that provides physical activity for small animals, such as hamsters and mice, by allowing them to run inside a rotating wheel.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Auger is about\n",
+    "output_field": "An auger is a tool used for drilling holes or moving loose material, typically featuring a helical shaft or blade.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about\nInput: Smartbones\n",
+    "output_field": "Smartbones are a type of dog chew that is designed to be a healthier and safer alternative to rawhide. They are made with real meat and vegetables to provide a nutritious treat for dogs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Rug\n",
+    "output_field": "A rug is a thick, heavy floor covering that is typically placed on top of a floor or carpet for decoration, comfort, and protection. Rugs come in various sizes, materials, and designs to suit different aesthetic and functional needs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Barbie\n",
+    "output_field": "A Barbie is a fashion doll, part of a line of dolls manufactured by the American toy company Mattel, which allows children to engage in imaginative play and storytelling.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Zucchini\n",
+    "output_field": "Zucchini is a type of summer squash that has a mild flavor and soft texture, commonly used in cooking and baking. It is typically green, cylindrical, and can be eaten raw or cooked.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Photo\n",
+    "output_field": "A photo, also known as a photograph, is an image captured using a camera that records the visual representation of a moment in time, typically saved in digital formats or printed on paper.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Silk is about\n",
+    "output_field": "Silk is a natural protein fiber produced by certain insect larvae, primarily silkworms, that is used to create luxurious, soft, and smooth fabrics often utilized in clothing, upholstery, and various textiles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Dresses\n",
+    "output_field": "Dresses are garments designed to cover the body, typically featuring a top piece attached to a skirt that extends downward, and are often worn by women and girls for various occasions, ranging from casual to formal.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what VoIP is about\n",
+    "output_field": "VoIP (Voice over Internet Protocol) is a technology that allows people to make voice calls using a broadband internet connection instead of a regular (or analog) phone line.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Assam\n",
+    "output_field": "Assam is a type of tea that comes from the Assam region in India. Known for its strong, malty flavor, it is often used in breakfast teas such as Irish Breakfast and English Breakfast.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what a Shop-Vac is about\n",
+    "output_field": "A Shop-Vac is a brand of vacuum cleaner known for its powerful suction, typically used for heavy-duty cleaning tasks, including sucking up both dry and wet debris in workshops and construction sites.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Chews\n",
+    "output_field": "Chews are edible products designed for animals to gnaw on, providing dental benefits and mental stimulation while often serving as a treat.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Latch is about\n",
+    "output_field": "A latch is a mechanical fastener that keeps doors, gates, or panels closed by interlocking parts, typically requiring a handle or mechanism to open.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Costume\n",
+    "output_field": "A costume is a set of clothes worn to portray a particular character, theme, or idea, often used in theatrical performances, holiday celebrations, or themed parties.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what the product type Box is about\nInput: Box\n",
+    "output_field": "A box is a container typically made of sturdy material such as wood, metal, or cardboard, used for storing or transporting items.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category Medal\nOutput:",
+    "output_field": "A medal is a small, flat piece of metal, often engraved or inscribed, awarded to someone as a form of recognition or distinction for achievements or honor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Shock Absorbers are about\nInput: Shock Absorbers\n",
+    "output_field": "Shock absorbers are mechanical devices designed to smooth out or dampen the shock impulse and dissipate kinetic energy, typically used in automotive suspension systems to reduce the impact of traveling over rough terrain for both the vehicle and its occupants.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category Coin\n",
+    "output_field": "A coin is a small, flat, round piece of metal or plastic used primarily as a medium of exchange or legal tender, often decorated with images or inscriptions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what a Mechanical Pencil is about\nInput: Mechanical Pencil\n",
+    "output_field": "A mechanical pencil is a writing instrument that uses a replaceable and mechanically extendable solid pigment core called lead, which advances through a pushing mechanism.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category Colander\n",
+    "output_field": "A colander is a kitchen utensil with perforated holes used for draining liquids from foods such as pasta or for washing vegetables.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Engine Oil is about\nInput: Engine Oil\n",
+    "output_field": "Engine oil is a lubricant used in internal combustion engines to reduce friction between moving parts, cool the engine, and clean it by suspending contaminants.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Emergency Kit\n",
+    "output_field": "An emergency kit is a collection of essential items and supplies prepared in advance to help individuals survive and manage emergencies or disasters, such as first aid supplies, food, water, and tools.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what a Scrapbook is about\nInput: Scrapbook\n",
+    "output_field": "A scrapbook is a book containing blank pages for the purpose of collecting and preserving personal memorabilia, such as photographs, clippings, and other keepsakes, often organized in a creative and decorative manner.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what Snaps are about\n",
+    "output_field": "Snaps are fasteners used to attach two pieces of fabric together, consisting of a male and female part that press together securely, often used in clothing and accessories.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Book  \n",
+    "output_field": "A book is a set of written, printed, or illustrated sheets of paper, bound together along one edge, containing information, stories, or literary content.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Decorative Items  \n",
+    "output_field": "Decorative items are objects used to enhance the aesthetic appeal and overall ambiance of a space, often used for interior designing and personalizing home or office environments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Describe what Congas are  \n",
+    "output_field": "Congas are tall, narrow, single-headed drums that are typically played in sets of two or more, and are often used in Afro-Cuban music.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Coats  \n",
+    "output_field": "Coats are outer garments with sleeves that are worn over other clothing for warmth or as a fashion statement. They come in various lengths, materials, and styles to suit different weather conditions and personal preferences.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Clarify what Slats are  \n",
+    "output_field": "Slats are narrow, flat strips of material, typically wood or metal, used in construction for supporting structures, providing ventilation, or for decorative purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Describe what a Lift Kit is  \n",
+    "output_field": "A lift kit is a set of vehicle modifications designed to raise the ride height of a vehicle, usually to accommodate larger tires or enhance off-road capability.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Mid-Calf refers to  \n",
+    "output_field": "Mid-calf refers to a length that extends halfway down the calf, often used to describe the length of clothing items like dresses, skirts, or boots.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Pies  \n",
+    "output_field": "Pies are baked dishes typically consisting of a pastry dough casing that contains a filling of various sweet or savory ingredients. The filling can include fruits, meats, vegetables, or custards, and pies can be served as desserts, main courses, or snacks.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Describe what Olives are  \n",
+    "output_field": "Olives are small, oval-shaped fruits of the olive tree, typically green or black, widely used for their edible flesh and oil, and commonly found in Mediterranean cuisine.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Clarify what Wire Rope is  \n",
+    "output_field": "Wire Rope is a type of cable constructed of several strands of wire twisted together, commonly used for lifting, rigging, and other heavy-duty applications where flexibility and strength are required.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Flag\n",
+    "output_field": "A flag is a piece of fabric, often rectangular, with distinctive colors, patterns, or symbols, used as a symbol, signal, or decoration and typically flown on a pole or hung on a wall.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Caddy is about\n",
+    "output_field": "A caddy is a storage container or holder designed to organize and carry items, often used in kitchens or bathrooms to manage utensils, toiletries, or cleaning supplies.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Fuel Tank Filler\n",
+    "output_field": "A fuel tank filler is the structure through which fuel is added to a vehicle's fuel tank, typically including a filler neck, cap, and inlet.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the iPad is about\n",
+    "output_field": "An iPad is a tablet computer developed by Apple Inc. that features a multi-touch screen, and it is designed for browsing the web, consuming media, gaming, and running a variety of applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Beef\n",
+    "output_field": "Beef is meat obtained from cattle, and it is a major source of protein in diets around the world. It can be prepared and cooked in various ways, including grilling, roasting, and stewing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Explain the product type Santoku\n",
+    "output_field": "A Santoku is a versatile, all-purpose kitchen knife originating from Japan, designed for slicing, dicing, and mincing. It features a straight edge and a sheepsfoot blade that curves down at an angle, offering precision cutting.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Sport Coat\n",
+    "output_field": "A sport coat is a tailored jacket that is versatile and can be worn with trousers of different colors and fabrics, typically used for less formal occasions than suit jackets.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Pants\n",
+    "output_field": "Pants are a type of clothing worn from the waist down to cover each leg separately, and they come in various styles and lengths for different occasions and purposes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Licorice\n",
+    "output_field": "Licorice is a type of confectionery that is flavored with the extract of the licorice plant root, and it can come in various forms such as sticks, twists, and ropes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Rim is about\n",
+    "output_field": "A rim is the outer part of a wheel that holds the tire, commonly found on vehicles like bicycles, cars, and motorcycles. It provides structural support and helps ensure the tire stays properly mounted.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bowie\n",
+    "output_field": "A Bowie knife is a large, fixed-blade knife known for its distinctive clipped point and crossguard, originally designed for combat and survival use.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Gauge is about\nOutput:",
+    "output_field": "A gauge is a measuring instrument used to determine the size, amount, or degree of something, typically used in various applications like pressure, temperature, or fuel level monitoring.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Splenda\n",
+    "output_field": "Splenda is a brand of artificial sweetener that is used as a sugar substitute to provide a sweet taste without the calories associated with sugar.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about\n",
+    "output_field": "Input: Tell me what this product category is about\nAnswer: Eye Mask",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Pet Bowl\n",
+    "output_field": "A pet bowl is a dish used to provide food and water to pets such as dogs, cats, and other domestic animals.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Chukka is about\n",
+    "output_field": "A Chukka is a style of ankle-high boot typically made from leather or suede, featuring a minimal design with two or three pairs of eyelets for lacing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Sham\n",
+    "output_field": "A sham is a decorative cover typically used on pillows to add style and sometimes additional protection.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about\n",
+    "output_field": "Input: Tell me what this product category is about\nOutput: This product category involves explaining the main function and basic characteristics of a specific type of product.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Long-Nose\n",
+    "output_field": "A long-nose pliers has elongated, tapered jaws, making it ideal for bending, re-positioning, and cutting wire or small objects in tight spaces.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Multimeter\n",
+    "output_field": "A multimeter is a versatile diagnostic tool used to measure electrical properties such as voltage, current, and resistance. It is commonly used in electronics to troubleshoot and test circuits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about\nInput: Rope\n",
+    "output_field": "A rope is a strong, thick line made of long twisted or braided fibers used for lifting, pulling, fastening, and securing objects.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type CCD\n",
+    "output_field": "A CCD (Charge-Coupled Device) is a type of image sensor used in cameras, scanners, and other imaging devices to convert light into electrical signals, enabling the capture and digital processing of images.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Fruit\n",
+    "output_field": "Fruit is the edible, fleshy seed-bearing part of a plant, often sweet or sour, that is typically consumed raw as a snack or used in cooking and baking.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Line\n",
+    "output_field": "A line is a long, narrow cord or rope used for various purposes, including fishing, climbing, and other applications where strong, flexible, durable material is required.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product type Desk\n",
+    "output_field": "A desk is a piece of furniture with a flat surface intended for writing, working, or using a computer. It often includes drawers or compartments for storage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Coat\n",
+    "output_field": "A coat is a garment worn over other clothing for warmth or protection from the elements, often extending below the waist and made from materials such as wool, leather, or synthetic fibers.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Daisy\n",
+    "output_field": "A daisy is a type of flowering plant belonging to the family Asteraceae, known for its simple beauty, typically featuring white petals and a yellow center.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category is about\nInput: Jars\n",
+    "output_field": "Jars are cylindrical containers, typically made of glass or plastic, with wide mouths that are used for storing food, liquids, and other small items, often with a secure lid for sealing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Coaxial\n",
+    "output_field": "A coaxial cable is a type of electrical cable consisting of a center conductor, an insulating layer, and an outer conductive shield, used to transmit high-frequency electrical signals with low loss.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Jam\n",
+    "output_field": "Jam is a spreadable fruit preserve made by cooking fruit with sugar until it thickens, often used on bread or pastries for flavor.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Boombox\n",
+    "output_field": "A boombox is a portable audio player with built-in speakers, typically designed to play music from radio, CDs, or digital media.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Godiva is about\n",
+    "output_field": "Godiva is a premium brand known for its high-quality Belgian chocolates, offering a range of products including truffles, chocolate bars, and assorted chocolate gift boxes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Fire Pit\n",
+    "output_field": "A fire pit is a structure designed to contain and manage an open flame for outdoor use, providing warmth, ambiance, and a focal point for gatherings. They are often made of materials like metal, stone, or brick.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Vegetable\n",
+    "output_field": "Vegetables are edible plants or parts of plants that are typically consumed as part of a meal, providing essential nutrients, vitamins, and minerals.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about\nInput: Tower\n",
+    "output_field": "A tower is a tall, vertical structure that can either be freestanding or part of a larger building, often used for observation, communication, or as a decorative architectural element.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Knob is about\n",
+    "output_field": "A knob is a rounded handle or control switch used to adjust or operate a mechanism or appliance, typically by turning it.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Absorbent\n",
+    "output_field": "An absorbent is a material that has the ability to soak up liquids or gases through its surface, often used for cleaning up spills, moisture control, or in medical and industrial applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Dried is about\n",
+    "output_field": "Dried refers to food products that have had the moisture removed to extend their shelf life and concentrate their flavor. This process can include fruits, vegetables, meats, and other food items.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Soup\n",
+    "output_field": "Soup is a liquid food that is typically made by boiling meat, fish, or vegetables in water or broth and often served hot, sometimes with solid pieces of the ingredients included.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name\nInput: Bands\n",
+    "output_field": "Bands encompass a versatile range of products that can wrap around objects or parts of the body, often to provide support, function, or fashion. This category includes items like watch bands, resistance bands, and hair bands.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Wheels  \n",
+    "output_field": "Wheels are circular components that enable vehicles, machinery, or other objects to roll, reducing friction and facilitating movement. They are a crucial part of transportation and industrial equipment.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category Grill is about  \nOutput:",
+    "output_field": "A grill is a cooking device used for grilling food, typically outdoors, by applying direct heat from below using charcoal, gas, or electricity.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Clamp  \n",
+    "output_field": "A clamp is a tool designed to hold objects firmly in place using pressure. It typically features adjustable jaws that can be tightened or loosened to secure a variety of materials and objects, making it useful in woodworking, metalworking, and other construction applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about  \nInput: Baked  \n",
+    "output_field": "The \"Baked\" category includes food products that are cooked using dry heat, typically in an oven, resulting in items like bread, pastries, cakes, and cookies.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Foam  \n",
+    "output_field": "Foam is a substance formed by trapping pockets of gas in a liquid or solid, commonly used for insulation, cushioning, and packaging due to its lightweight and versatile nature.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Pull is about  \n",
+    "output_field": "A pull is a handle or knob used to manually open or close a door, drawer, or cabinet by pulling.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Tee  \n",
+    "output_field": "A tee is a style of shirt that typically has short sleeves, a round neckline, and no collar. It is a versatile piece of clothing often used for casual wear.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Bit  \n",
+    "output_field": "A bit is a tool used to cut or shape material, typically metal or wood, and it is commonly attached to power drills or other machinery.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category Books  \n",
+    "output_field": "Books are written or printed works consisting of pages bound together, used for reading and often intended to convey knowledge, tell stories, or provide information.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the product type Judo is about  \n",
+    "output_field": "Judo is a modern Japanese martial art and combat sport that emphasizes throwing or taking down opponents, as well as joint locks and strangleholds.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Loafer\n",
+    "output_field": "A loafer is a type of slip-on shoe that is typically low and lacks laces or fastenings, offering a combination of comfort and casual style.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain what a glove is\n",
+    "output_field": "A glove is a garment that covers the hand, typically with separate sheaths for each finger and the thumb, providing protection, warmth, or improved grip.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Wet Vacuum Cleaner is about\n",
+    "output_field": "A wet vacuum cleaner is a cleaning device that uses suction to remove liquids and wet debris from surfaces, making it effective for heavy-duty cleaning tasks including spills and wet messes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain what a bike bag is\n",
+    "output_field": "A bike bag is a bag designed specifically to be attached to a bicycle in order to carry items while riding, often featuring compartments and straps for secure and convenient storage.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Router Bit\n",
+    "output_field": "A router bit is a tool used with a router to shape, cut, and hollow out areas in hard materials like wood, plastic, or metal, often used in woodworking and cabinetry.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain what canned tuna is\n",
+    "output_field": "Canned tuna is fish that has been cooked and preserved in a sealed container, usually with added oil, water, or brine, and is commonly used as a convenient ingredient in various dishes.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Micro ATX Motherboard\n",
+    "output_field": "A Micro ATX motherboard is a smaller form factor motherboard used in desktop computers, designed to fit in compact cases while still providing sufficient connectivity and expansion options for components like CPUs, memory, and peripherals.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product type Bath Mat is about\n",
+    "output_field": "A bath mat is a floor covering placed just outside a bathtub or shower to absorb water and provide a non-slip surface for stepping out.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Serving Bowl\n",
+    "output_field": "A serving bowl is a large bowl used for presenting and serving food, such as salads, vegetables, or side dishes, at the dining table.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain what a travel journal is\n",
+    "output_field": "A travel journal is a notebook or diary that people use to document their experiences, observations, and memories while traveling. It often includes written entries, sketches, and photographs.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Thread\n",
+    "output_field": "A thread is a long, thin strand of material, typically made of cotton, polyester, or other fibers, used primarily in sewing or weaving to stitch fabrics together or to create textiles.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Candy\n",
+    "output_field": "Candy is a type of confectionery that features sweets made primarily from sugar or syrup and often includes flavors, colors, and various textures. Candy can come in many forms, such as hard candies, gummies, chocolates, and more.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what this product category is about: Puller\n",
+    "output_field": "A puller is a tool designed to remove components, such as bearings or gears, from a shaft or housing in mechanical and automotive applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain what an Infuser is\n",
+    "output_field": "An infuser is a device designed to steep loose tea leaves or herbs in water, allowing the flavors to diffuse and create tea or other infused beverages.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Herbal refers to\n",
+    "output_field": "Herbal refers to products made from plants or plant extracts, used especially in medicine, health products, or cosmetic items.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Basil\n",
+    "output_field": "Basil is an aromatic herb used in cooking for its distinctive flavor, often added fresh or dried to a variety of dishes for seasoning.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Explain the product category name: Tankini Top\n",
+    "output_field": "A tankini top is a type of women's swimwear that combines the coverage of a tank top with the versatility of a bikini, often providing more modesty while still being stylish.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what Gum is about\n",
+    "output_field": "Gum is a chewy substance typically made from chicle or synthetic rubber and is often flavored, meant for chewing but not swallowing.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Define the item category Paddle\n",
+    "output_field": "A paddle is a tool with a broad, flat blade that is used to propel and steer small boats or watercraft by pushing against the water.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Propeller\n",
+    "output_field": "A propeller is a mechanical device with blades that rotates to push fluid, such as water or air, to create thrust and propel a vehicle like a boat or an aircraft.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type wide calf\n",
+    "output_field": "Wide calf refers to boots or footwear specifically designed with a larger circumference to comfortably fit individuals with wider calves.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type latches\nOutput:",
+    "output_field": "Latches are fastening devices used to join two objects or surfaces while allowing for regular separation and rejoining. They often work by means of a mechanical, spring, or friction mechanism.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the product category dry is about\n",
+    "output_field": "\"Dry\" is not a specific product category; it is an adjective describing the absence of moisture. It can be associated with various products that are free from liquid, such as dry foods, dry clothing, or dry skin treatments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type radish\n",
+    "output_field": "A radish is an edible root vegetable that is typically round or cylindrical in shape, with a crisp texture and a peppery flavor. Radishes are commonly eaten raw in salads, but can also be cooked or pickled.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the treat is about\n",
+    "output_field": "A treat is a small amount of a tasty food given as a reward, often to pets or children, to encourage good behavior or to convey affection.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type drop thru\n",
+    "output_field": "A drop thru is a device or system designed to allow objects, often small parcels or documents, to be securely deposited into a box or container through an opening, commonly used for mail or payment collection.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category windbreaker\n",
+    "output_field": "A windbreaker is a lightweight jacket designed to resist wind and rain, providing protection and comfort in breezy or wet conditions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category shoes\n",
+    "output_field": "Shoes are wearable items designed to protect and comfort the feet while providing stability and style. They come in various designs suitable for different activities and environments, such as casual wear, sports, or formal occasions.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the carrier is about\n",
+    "output_field": "A carrier is a device or method used for transporting goods, people, or other items from one place to another.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type post cap\n",
+    "output_field": "A post cap is a protective and decorative top piece that fits onto the end of a post or column, often used in fencing, decking, or landscaping to prevent water damage and provide a finished look.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Safes  \n",
+    "output_field": "A safe is a secure, lockable box used for storing valuable items such as money, jewelry, documents, and other precious belongings, protecting them from theft, fire, and other potential threats.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Tub  \n",
+    "output_field": "A tub is a large container or basin, typically used for bathing or soaking in water. It may be made from various materials like porcelain, fiberglass, or metal and can be found in bathrooms or spas.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Loom is about  \n",
+    "output_field": "A loom is a device used to weave threads into fabric, creating textiles by interlacing yarn or thread in a systematic pattern.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Synthesizer  \n",
+    "output_field": "A synthesizer is an electronic musical instrument that generates audio signals to create various sounds using analog or digital processing techniques.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Dropper  \n",
+    "output_field": "A dropper is a small tube with a vacuum bulb at one end for drawing in and dispensing small amounts of liquid, often used in medicine and laboratory work.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what Finches are about  \n",
+    "output_field": "Finches are small to medium-sized passerine birds that are known for their bright plumage and melodious singing. They are often kept as pets and can be found in a variety of habitats worldwide.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Bowls  \n",
+    "output_field": "Bowls are round, open-top containers commonly used for serving and consuming food, such as soups, salads, and cereals. They come in various sizes and materials, including ceramic, glass, and plastic.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product category name Ornament  \n",
+    "output_field": "An ornament is a decorative object, often used to beautify clothing, furniture, or environments.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what the Foil is about  \n",
+    "output_field": "Foil is a thin sheet of metal, usually aluminum, used for wrapping food, cooking, and other household and industrial applications.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Sock  \n",
+    "output_field": "Socks are garments worn on the feet to provide comfort, absorb sweat, and protect the feet from abrasion or cold. They often come in pairs and are made from various materials, including cotton, wool, and synthetic fibers.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Can  \n",
+    "output_field": "A can is a cylindrical container typically made of metal, used to store a variety of items, including food, beverages, and other liquids or gases. Cans are often sealed to preserve the contents and protect them from contamination.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Lilly  \n",
+    "output_field": "Lilly is a type of flowering plant known for its large, prominent, and often fragrant blossoms, commonly used for ornamental purposes and popular in gardens and floral arrangements.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Tell me what the Grass is about  \n",
+    "output_field": "Grass is a short, green plant with slender leaves, commonly found in lawns, parks, and fields, and is often used as ground cover for its aesthetic and environmental benefits.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Input: Explain the product type Tote  \n",
+    "output_field": "A tote is a large, often unfastened bag with parallel handles that emerge from the sides of its pouch, designed to carry numerous items conveniently.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product category name Card  \n",
+    "output_field": "A card is a small, flat, rectangular piece of stiff paper or plastic used for various purposes, such as identification, financial transactions, or sending messages.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruction: Tell me what this product category is about Loveseat  \n",
+    "output_field": "A loveseat is a small sofa designed to seat two people, often used in living rooms and sitting areas for intimate seating and comfort.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instruct: Tell me what the 'stool' is \n",
+    "output_field": "A stool is a simple seat with a flat top and one to four legs, typically without a backrest, designed for seating one person.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about Wall  \n",
+    "output_field": "A wall is a vertical structure that defines and sometimes protects an area. It is often constructed for purposes of partitioning space, providing security, supporting the building framework, or serving as a decorative element in architectural design.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Explain the product type Snap  \n",
+    "output_field": "A snap is a type of fastener used in various textiles and materials, consisting of two interlocking discs, one with a protruding part and the other with a recess, which snap together to close and secure items such as clothing, bags, or accessories.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  },
+  {
+    "input_field": "Instructions: Tell me what this product category is about Airplane  \n",
+    "output_field": "An airplane is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine or propeller, used for transporting passengers and cargo over long distances through the air.",
+    "task_type": "generation",
+    "metric": "sent-transformer"
+  }
+]
