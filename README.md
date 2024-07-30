@@ -16,7 +16,8 @@ The [Amazon KDD Cup’24 competition](https://www.aicrowd.com/challenges/amazon-
 |  | Category Recognition (CR) | 1,000 | amazonmetadata |
 |  | Explaining Pair Fashion (EPF) | 3,000 | PairwiseFashion |
 |  | Explaining Bought Together (EBT) | 2,315 | IntentionQA |
-|  | Extract Review Keyphrase (ERK) | 4,000 | ecinstruct, PairwiseFashion |
+|  | Extract Review Keyphrase (ERK) | 1,000 | ecinstruct |
+|  | Extract Product Keyphrase (EPK) | 3,000 | PairwiseFashion |
 |  | Product Keyword Summarization (PKS) | 1,296 | esci, ecinstruct, amazonreview |
 |  | Review Title Summarization (RTS) | 1,455 | amazonreview, Womens_Clothing_Reviews |
 |  | Multilingual Translation (MT) | 2,997 | amazon-m2, flores |
