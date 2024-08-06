@@ -1,4 +1,4 @@
-# **Amazon KDDCUP 2024 Team ZJU-AI4H’s Solution and Dataset (Track 2 Top 2; Track 5 Top 5)**
+# **Amazon KDDCup 2024 Team ZJU-AI4H’s Solution and Dataset (Track 2 Top 2; Track 5 Top 5)**
 
 The [Amazon KDD Cup’24 competition](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) presents a unique challenge by focusing on the application of LLMs in E-commerce across multiple tasks. Our solution for addressing Tracks 2 and 5 involves a comprehensive pipeline encompassing dataset construction, instruction tuning, post-training quantization, and inference optimization. The core of our strategy is EC-Guide specifically tailored for E-commerce scenarios. Notably, we heuristically integrated CoT reasoning to enhance the arithmetic capabilities of LLMs, resulting in improved performance in both Tracks. Please check our workshop paper for more details: “[EC-Guide: A Comprehensive E-Commerce Guide for Instruction Tuning and Quantization by ZJU-AI4H](https://openreview.net/forum?id=8x4In4No3q)”.
 
