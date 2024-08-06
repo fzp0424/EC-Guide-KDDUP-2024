@@ -6,7 +6,7 @@ The [Amazon KDD Cup’24 competition](https://www.aicrowd.com/challenges/amazon-
 
 ## **Statistics of EC-Guide**
 
-| EC-Guide | [AI4H/EC-Guide · Datasets at Hugging Face](https://huggingface.co/datasets/AI4H/EC-Guide) |
+| EC-Guide | [AiMijie/EC-Guide · Datasets at Hugging Face](https://huggingface.co/datasets/AiMijie/EC-Guide) |
 | -------- | ------------------------------------------------------------ |
 
 | Task type | Sub-tasks | #Examples | Source |
